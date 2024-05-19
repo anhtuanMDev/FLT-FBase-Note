@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157450278052",
+    "project_id": "flt-note-17337",
+    "storage_bucket": "flt-note-17337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157450278052:android:49893347749d8554c60231",
+        "android_client_info": {
+          "package_name": "com.example.fltnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGRp0CiQ5J8ZhIZQemm3jVuD8RyF8ch1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
